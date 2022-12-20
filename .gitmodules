@@ -1,3 +1,6 @@
 [submodule "ecommerce_batch_16"]
 	path = ecommerce_batch_16
 	url = https://github.com/shakhawatsabbir/ecommerce_batch_16.git
+[submodule "zen_blog_batch_16"]
+	path = zen_blog_batch_16
+	url = https://github.com/shakhawatsabbir/zen_blog_batch_16.git
