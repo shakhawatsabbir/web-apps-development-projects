@@ -4,3 +4,6 @@
 [submodule "zen_blog_batch_16"]
 	path = zen_blog_batch_16
 	url = https://github.com/shakhawatsabbir/zen_blog_batch_16.git
+[submodule "sms_peoject_1"]
+	path = sms_peoject_1
+	url = https://github.com/shakhawatsabbir/sms_peoject_1.git
